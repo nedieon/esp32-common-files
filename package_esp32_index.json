@@ -388,7 +388,7 @@
               "size": "125719261"
             }, 
             {
-              "url": "https://dl.espressif.com/dl/xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz", 
+              "url": "https://github.com/nedieon/esp32-common-files/raw/master/xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz", 
               "checksum": "SHA-256:a4307a97945d2f2f2745f415fbe80d727750e19f91f9a1e7e2f8a6065652f9da", 
               "host": "x86_64-apple-darwin", 
               "archiveFileName": "xtensa-esp32-elf-osx-1.22.0-80-g6c4433a-5.2.0.tar.gz", 
