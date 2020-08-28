@@ -217,7 +217,7 @@
               "size": "3422445"
             }, 
             {
-              "url": "https://dl.espressif.com/dl/esptool-2.6.1-macos.tar.gz", 
+              "url": "https://github.com/nedieon/esp32-common-files/raw/master/esptool-2.6.1-macos.tar.gz", 
               "checksum": "SHA-256:f4eb758a301d6902cc9dfcd49d36345d2f075ad123da7cf8132d15cfb7533457", 
               "host": "x86_64-apple-darwin", 
               "archiveFileName": "esptool-2.6.1-macos.tar.gz", 
